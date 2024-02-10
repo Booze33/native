@@ -40,8 +40,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
-    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+    <li>React Native</li>
+    <li>CSS</li>
+    <li>Expo Cli</li>
      <li><a href="https://www.w3schools.com/js/">JavaScript</a></li>
   </ul>
 </details>
